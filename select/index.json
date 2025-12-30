@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "もしもの話",
+  "base_artist": "nano.RIPE",
+  "createdAt": "2025-12-30T16:23:33.103967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もしもの話",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/01_もしもの話_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もしもの話 (假设之事)",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/02_もしもの話_(假设之事)_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moshimo no Hanashi (もしもの話)",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/03_Moshimo_no_Hanashi_(もしもの話)_nano.RIPE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もしもの話",
+      "artist": "nano.RIPE",
+      "has_synced": false,
+      "path": "select/pl_01_もしもの話_nano.RIPE.txt"
+    }
+  ]
+}
